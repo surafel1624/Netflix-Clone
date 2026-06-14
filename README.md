@@ -33,5 +33,5 @@ Ensure you have **Node.js (v16 or higher)** and **npm** installed. You will also
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/netflix-clone.git](https://github.com/your-username/netflix-clone.git)
+git clone [https://github.com/surafel1624/Netflix-Clone.git]
 cd netflix-clone
